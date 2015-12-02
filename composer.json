@@ -12,11 +12,10 @@
     ],
     "minimum-stability": "dev",
     "bin": [
-        "bin/wkhtmltopdf",
+        "bin/wkhtmltopdf-script",
         "bin/wkhtmltopdf-darwin-x86",
         "bin/wkhtmltopdf-linux-amd64",
-        "bin/wkhtmltopdf-linux-x86",
-        "bin/wkhtmltopdf"
+        "bin/wkhtmltopdf-linux-x86"
     ],
     "require": {
     }
