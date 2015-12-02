@@ -1,0 +1,23 @@
+{
+    "name": "ferpetrelli/laravel_wkhtmltopdf",
+    "description": "Provide wkhtmltopdf binaries to convert html to pdf for linux platforms and intel-based Mac OS.",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary", "laravel"],
+    "license": "MIT",
+    "homepage": "https://github.com/ferpetrelli/laravel_wkhtmltopdf",
+    "authors": [
+        {
+            "name": "Fernando Petrelli",
+            "email": "fer.petrelli@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "bin": [
+        "bin/wkhtmltopdf",
+        "bin/wkhtmltopdf-darwin-x86",
+        "bin/wkhtmltopdf-linux-amd64",
+        "bin/wkhtmltopdf-linux-x86",
+        "bin/wkhtmltopdf"
+    ],
+    "require": {
+    }
+}
